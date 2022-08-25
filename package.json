@@ -1,0 +1,13 @@
+{
+  "name": "remind2discord",
+  "version": "1.0.0",
+  "description": "your mom lmao gotem",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["node", "remind", "discord", "heroku"],
+  "author": "ayunami2000",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "simple-node-imap": "^2.0.3"
+  }
+}
